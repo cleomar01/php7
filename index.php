@@ -1,5 +1,7 @@
 <?php
 
 echo "hellow world !!!!";
-echo"Olá mundo!!!"
+echo"Olá mundo!!!";
+print("Ola HCDOE";
+	
 	?>
